@@ -1,0 +1,12 @@
+Metric,Value
+Accuracy,1.0
+Precision (macro),1.0
+Recall (macro),1.0
+F1-score (macro),1.0
+AUC-ROC (macro),1.0
+Precision (Anomaly),1.0
+Recall (Anomaly),1.0
+F1-score (Anomaly),1.0
+Precision (Normal),1.0
+Recall (Normal),1.0
+F1-score (Normal),1.0

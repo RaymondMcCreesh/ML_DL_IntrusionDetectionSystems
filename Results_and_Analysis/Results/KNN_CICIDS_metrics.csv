@@ -1,0 +1,51 @@
+Metric,Value
+Accuracy,0.989397820606652
+Precision (macro),0.8333613495076679
+Recall (macro),0.802641704466856
+F1-score (macro),0.8113960346436283
+AUC-ROC (macro),0.9633729401040199
+Precision (BENIGN),0.9947823095447421
+Recall (BENIGN),0.9939780894120044
+F1-score (BENIGN),0.9943800368720528
+Precision (Bot),0.7779661016949152
+Recall (Bot),0.7913793103448276
+F1-score (Bot),0.7846153846153846
+Precision (DDoS),0.9975193798449612
+Recall (DDoS),0.9967981821937616
+F1-score (DDoS),0.9971586506173477
+Precision (DoS GoldenEye),0.9882128066263142
+Recall (DoS GoldenEye),0.9955070603337612
+F1-score (DoS GoldenEye),0.9918465227817744
+Precision (DoS Hulk),0.9944892890406705
+Recall (DoS Hulk),0.9930248779353639
+F1-score (DoS Hulk),0.9937565439950363
+Precision (DoS Slowhttptest),0.9800899165061014
+Recall (DoS Slowhttptest),0.9857881136950905
+F1-score (DoS Slowhttptest),0.9829307568438004
+Precision (DoS slowloris),0.9915305505142166
+Recall (DoS slowloris),0.9903323262839879
+F1-score (DoS slowloris),0.9909310761789601
+Precision (FTP-Patator),0.9988603988603989
+Recall (FTP-Patator),0.9954571266325951
+F1-score (FTP-Patator),0.9971558589306029
+Precision (Heartbleed),1.0
+Recall (Heartbleed),1.0
+F1-score (Heartbleed),1.0
+Precision (Infiltration),0.8000000000000002
+Recall (Infiltration),0.3333333333333333
+F1-score (Infiltration),0.4705882352941176
+Precision (PortScan),0.9009427121102249
+Recall (PortScan),0.9192068659366677
+F1-score (PortScan),0.909983153885593
+Precision (SSH-Patator),0.9611451942740287
+Recall (SSH-Patator),0.9670781893004116
+F1-score (SSH-Patator),0.9641025641025641
+Precision (Web Attack � Brute Force),0.7235772357723578
+Recall (Web Attack � Brute Force),0.7478991596638656
+F1-score (Web Attack � Brute Force),0.7355371900826446
+Precision (Web Attack � Sql Injection),0.0
+Recall (Web Attack � Sql Injection),0.0
+F1-score (Web Attack � Sql Injection),0.0
+Precision (Web Attack � XSS),0.391304347826087
+Recall (Web Attack � XSS),0.3298429319371728
+F1-score (Web Attack � XSS),0.35795454545454547

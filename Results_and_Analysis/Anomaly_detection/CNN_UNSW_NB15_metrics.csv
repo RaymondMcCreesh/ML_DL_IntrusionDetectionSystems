@@ -1,0 +1,12 @@
+Metric,Value
+Accuracy,0.9977732793522267
+Precision (macro),0.9979025385982307
+Recall (macro),0.9976046347645294
+F1-score (macro),0.997751281098965
+AUC-ROC (macro),0.999961879934423
+Precision (Anomaly),0.9966151582045621
+Recall (Anomaly),0.9993359403822032
+F1-score (Anomaly),0.9979736948752902
+Precision (Normal),0.9991899189918992
+Recall (Normal),0.9958733291468557
+F1-score (Normal),0.99752886732264

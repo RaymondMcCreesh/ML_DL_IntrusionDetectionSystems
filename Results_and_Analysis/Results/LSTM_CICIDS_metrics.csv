@@ -1,0 +1,51 @@
+Metric,Value
+Accuracy,0.9719342115963243
+Precision (macro),0.5685293266224235
+Recall (macro),0.5796839050480583
+F1-score (macro),0.5724507591809015
+AUC-ROC (macro),0.9895919202301517
+Precision (BENIGN),0.9832447791241415
+Recall (BENIGN),0.9824498863730402
+F1-score (BENIGN),0.9828471720281857
+Precision (Bot),0.0
+Recall (Bot),0.0
+F1-score (Bot),0.0
+Precision (DDoS),0.9928065054211843
+Recall (DDoS),0.983577773187358
+F1-score (DDoS),0.988170592508042
+Precision (DoS GoldenEye),0.9844559585492227
+Recall (DoS GoldenEye),0.975609756097561
+F1-score (DoS GoldenEye),0.9800128949065119
+Precision (DoS Hulk),0.9956357532522031
+Recall (DoS Hulk),0.9193985894753158
+F1-score (DoS Hulk),0.9559996776533162
+Precision (DoS Slowhttptest),0.9411027568922306
+Recall (DoS Slowhttptest),0.9702842377260982
+F1-score (DoS Slowhttptest),0.9554707379134858
+Precision (DoS slowloris),0.9524940617577197
+Recall (DoS slowloris),0.9691842900302114
+F1-score (DoS slowloris),0.9607666966157532
+Precision (FTP-Patator),0.9460334592552617
+Recall (FTP-Patator),0.9954571266325951
+F1-score (FTP-Patator),0.9701162147205312
+Precision (Heartbleed),0.0
+Recall (Heartbleed),0.0
+F1-score (Heartbleed),0.0
+Precision (Infiltration),0.0
+Recall (Infiltration),0.0
+F1-score (Infiltration),0.0
+Precision (PortScan),0.7333042815121473
+Recall (PortScan),0.9960047351287363
+F1-score (PortScan),0.844701010227772
+Precision (SSH-Patator),0.9988623435722411
+Recall (SSH-Patator),0.9032921810699589
+F1-score (SSH-Patator),0.9486763911399244
+Precision (Web Attack � Brute Force),0.0
+Recall (Web Attack � Brute Force),0.0
+F1-score (Web Attack � Brute Force),0.0
+Precision (Web Attack � Sql Injection),0.0
+Recall (Web Attack � Sql Injection),0.0
+F1-score (Web Attack � Sql Injection),0.0
+Precision (Web Attack � XSS),0.0
+Recall (Web Attack � XSS),0.0
+F1-score (Web Attack � XSS),0.0

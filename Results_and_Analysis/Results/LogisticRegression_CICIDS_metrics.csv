@@ -1,0 +1,51 @@
+Metric,Value
+Accuracy,0.969550500121981
+Precision (macro),0.8307121382614987
+Recall (macro),0.6603346910628153
+F1-score (macro),0.6709960747314265
+AUC-ROC (macro),0.9875057213335796
+Precision (BENIGN),0.9815841924617451
+Recall (BENIGN),0.9812467773866436
+F1-score (BENIGN),0.9814154559229877
+Precision (Bot),0.7058823529411765
+Recall (Bot),0.020689655172413793
+F1-score (Bot),0.04020100502512563
+Precision (DDoS),0.9956805731142014
+Recall (DDoS),0.976141293121256
+F1-score (DDoS),0.9858141232919578
+Precision (DoS GoldenEye),0.9689137268599372
+Recall (DoS GoldenEye),0.8902439024390244
+F1-score (DoS GoldenEye),0.927914366950995
+Precision (DoS Hulk),0.9941855703873557
+Recall (DoS Hulk),0.9408664651631403
+F1-score (DoS Hulk),0.966791431074301
+Precision (DoS Slowhttptest),0.9209302325581397
+Recall (DoS Slowhttptest),0.8953488372093024
+F1-score (DoS Slowhttptest),0.9079593842122503
+Precision (DoS slowloris),0.9177914110429448
+Recall (DoS slowloris),0.9039274924471299
+F1-score (DoS slowloris),0.910806697108067
+Precision (FTP-Patator),0.959496442255063
+Recall (FTP-Patator),0.9954571266325951
+F1-score (FTP-Patator),0.9771460423634336
+Precision (Heartbleed),1.0
+Recall (Heartbleed),1.0
+F1-score (Heartbleed),1.0
+Precision (Infiltration),0.6666666666666666
+Recall (Infiltration),0.3333333333333333
+F1-score (Infiltration),0.4444444444444444
+Precision (PortScan),0.7243395409268082
+Recall (PortScan),0.9899378514353359
+F1-score (PortScan),0.8365637113917719
+Precision (SSH-Patator),0.9865016872890888
+Recall (SSH-Patator),0.9022633744855967
+F1-score (SSH-Patator),0.9425040300913486
+Precision (Web Attack � Brute Force),0.8387096774193549
+Recall (Web Attack � Brute Force),0.0546218487394958
+F1-score (Web Attack � Brute Force),0.10256410256410256
+Precision (Web Attack � Sql Injection),0.0
+Recall (Web Attack � Sql Injection),0.0
+F1-score (Web Attack � Sql Injection),0.0
+Precision (Web Attack � XSS),0.8
+Recall (Web Attack � XSS),0.020942408376963352
+F1-score (Web Attack � XSS),0.04081632653061225

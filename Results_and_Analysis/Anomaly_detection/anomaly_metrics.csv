@@ -1,0 +1,100 @@
+Metric,Value,Model
+Accuracy,0.975668016194332,KNN
+Precision (macro),0.9750139386540676,KNN
+Recall (macro),0.9759644646324064,KNN
+F1-score (macro),0.9754602016425976,KNN
+AUC-ROC (macro),0.9947377728367242,KNN
+Precision (Anomaly),0.9825633383010433,KNN
+Recall (Anomaly),0.972921124474286,KNN
+F1-score (Anomaly),0.9777184591999406,KNN
+Precision (Normal),0.9674645390070922,KNN
+Recall (Normal),0.9790078047905266,KNN
+F1-score (Normal),0.9732019440852544,KNN
+Accuracy,0.9964170765773972,Transformer
+Precision (macro),0.9964990111053412,Transformer
+Recall (macro),0.9962619642362116,Transformer
+F1-score (macro),0.9963791188290596,Transformer
+AUC-ROC (macro),0.999888472899943,Transformer
+Precision (Anomaly),0.99570768214836,Transformer
+Recall (Anomaly),0.9977941987426932,Transformer
+F1-score (Anomaly),0.9967498485098883,Transformer
+Precision (Normal),0.9972903400623222,Transformer
+Recall (Normal),0.9947297297297296,Transformer
+F1-score (Normal),0.996008389148231,Transformer
+Accuracy,0.9544534412955464,LogisticRegression
+Precision (macro),0.9539817623152672,LogisticRegression
+Recall (macro),0.9540609291297012,LogisticRegression
+F1-score (macro),0.9540211512632146,LogisticRegression
+AUC-ROC (macro),0.9924573039544896,LogisticRegression
+Precision (Anomaly),0.958868704770344,LogisticRegression
+Recall (Anomaly),0.9580904596768244,LogisticRegression
+F1-score (Anomaly),0.9584794242480162,LogisticRegression
+Precision (Normal),0.9490948198601898,LogisticRegression
+Recall (Normal),0.9500313985825782,LogisticRegression
+F1-score (Normal),0.9495628782784128,LogisticRegression
+Accuracy,0.9977732793522268,CNN
+Precision (macro),0.9979025385982307,CNN
+Recall (macro),0.9976046347645294,CNN
+F1-score (macro),0.997751281098965,CNN
+AUC-ROC (macro),0.999961879934423,CNN
+Precision (Anomaly),0.996615158204562,CNN
+Recall (Anomaly),0.9993359403822032,CNN
+F1-score (Anomaly),0.9979736948752902,CNN
+Precision (Normal),0.9991899189918992,CNN
+Recall (Normal),0.9958733291468556,CNN
+F1-score (Normal),0.99752886732264,CNN
+Accuracy,0.9906882591093116,LSTM
+Precision (macro),0.99094431605726,LSTM
+Recall (macro),0.9902646158066972,LSTM
+F1-score (macro),0.9905926560454148,LSTM
+AUC-ROC (macro),0.9994032644292574,LSTM
+Precision (Anomaly),0.9884872039304832,LSTM
+Recall (Anomaly),0.9946137386556482,LSTM
+F1-score (Anomaly),0.9915410077234276,LSTM
+Precision (Normal),0.993401428184037,LSTM
+Recall (Normal),0.9859154929577464,LSTM
+F1-score (Normal),0.9896443043674022,LSTM
+Accuracy,1.0,Adaboost
+Precision (macro),1.0,Adaboost
+Recall (macro),1.0,Adaboost
+F1-score (macro),1.0,Adaboost
+AUC-ROC (macro),1.0,Adaboost
+Precision (Anomaly),1.0,Adaboost
+Recall (Anomaly),1.0,Adaboost
+F1-score (Anomaly),1.0,Adaboost
+Precision (Normal),1.0,Adaboost
+Recall (Normal),1.0,Adaboost
+F1-score (Normal),1.0,Adaboost
+Accuracy,0.9970445344129556,RandomForest
+Precision (macro),0.9971915874350228,RandomForest
+Recall (macro),0.9968450201429696,RandomForest
+F1-score (macro),0.9970151917107636,RandomForest
+AUC-ROC (macro),0.999955813422858,RandomForest
+Precision (Anomaly),0.9957340394233596,RandomForest
+Recall (Anomaly),0.9988932339703388,RandomForest
+F1-score (Anomaly),0.9973111348484288,RandomForest
+Precision (Normal),0.998649135446686,RandomForest
+Recall (Normal),0.9947968063156006,RandomForest
+F1-score (Normal),0.996719248573098,RandomForest
+Accuracy,0.9654655870445344,SVM
+Precision (macro),0.9661733811993086,SVM
+Recall (macro),0.9641513482174924,SVM
+F1-score (macro),0.9650625248080972,SVM
+AUC-ROC (macro),0.9910082979750806,SVM
+Precision (Anomaly),0.960144927536232,SVM
+Recall (Anomaly),0.9776433262008412,SVM
+F1-score (Anomaly),0.9688151208276972,SVM
+Precision (Normal),0.9722018348623852,SVM
+Recall (Normal),0.9506593702341436,SVM
+F1-score (Normal),0.9613099287884972,SVM
+Accuracy,0.9991497975708502,DecisionTree
+Precision (macro),0.9991376887293808,DecisionTree
+Recall (macro),0.9991456346094344,DecisionTree
+F1-score (macro),0.9991416599844144,DecisionTree
+AUC-ROC (macro),0.9991456346094344,DecisionTree
+Precision (Anomaly),0.9992621015348288,DecisionTree
+Recall (Anomaly),0.9991883715782484,DecisionTree
+F1-score (Anomaly),0.9992252351964585,DecisionTree
+Precision (Normal),0.9990132759239324,DecisionTree
+Recall (Normal),0.9991028976406208,DecisionTree
+F1-score (Normal),0.9990580847723703,DecisionTree
